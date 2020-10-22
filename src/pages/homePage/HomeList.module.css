@@ -1,0 +1,13 @@
+.title {
+	margin-left: 23px;
+	text-align: start;
+	font-size: 20px;
+}
+
+.list {
+	text-align: start;
+}
+
+.item {
+	color: rgb(37, 37, 37);
+}

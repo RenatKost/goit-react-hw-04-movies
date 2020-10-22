@@ -1,0 +1,33 @@
+.cardWrapper {
+	display: flex;
+	background-color: rgba(238, 238, 238, 0.479);
+}
+
+.goBackBtn {
+	display: block;
+	background-color: #fff;
+	padding: 5px 15px;
+	border: 1px solid #000;
+	font-size: 14px;
+	border-radius: 5px;
+}
+
+.goBackBtn:hover {
+	background-color: indianred;
+	color: #fff;
+	border: 0;
+}
+
+.descriptionWrapper {
+	text-align: start;
+}
+
+.hr {
+	border: 1px solid rgb(189, 189, 189);
+	margin: 0;
+}
+
+.img_wrapper {
+	display: block;
+	padding: 20px;
+}

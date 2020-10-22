@@ -1,0 +1,41 @@
+.wrapper {
+	margin: 0 auto;
+}
+
+.title {
+	text-align: center;
+	font-size: 17px;
+	color: rgb(59, 59, 59);
+	margin: 0;
+	margin-top: 10px;
+}
+
+.list {
+	display: flex;
+	justify-content: center;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	box-shadow: 0px 10px 13px -10px rgba(0, 0, 0, 0.71);
+}
+
+.list_item {
+	display: block;
+	margin: 10px 10px;
+}
+
+.link {
+	text-decoration: none;
+	color: darkgray;
+	font-size: 15px;
+}
+
+.link:hover {
+	text-decoration: underline;
+}
+
+.active_link {
+	color: indianred;
+	font-weight: 600;
+	font-size: 16px;
+}

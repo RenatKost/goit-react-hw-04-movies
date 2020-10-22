@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap");
+/* font-family: 'Roboto', sans-serif; */
+
+.head_wrapper {
+	display: flex;
+	justify-content: flex-start;
+	padding: 18px;
+	box-shadow: 0px 10px 13px -10px rgba(0, 0, 0, 0.71);
+}
+
+.btn {
+	font-family: "Roboto", sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	margin-left: 20px;
+	color: rgb(58, 58, 58);
+	text-decoration: none;
+}
+
+.btn:hover {
+	text-decoration: underline;
+}
+
+.active_btn {
+	color: indianred;
+}
